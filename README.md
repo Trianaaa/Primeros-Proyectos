@@ -1,2 +1,2 @@
-# Primeros-Proyectos
-Primeros proyectos JS 
+# JavaScript
+Estoy desarrollando un curso de JavaScript 
