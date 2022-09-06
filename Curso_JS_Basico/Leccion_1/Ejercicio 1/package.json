@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de Curso de JavaScript Basico",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trianaaa/Primeros-Proyectos.git"
+  },
+  "keywords": [
+    "Ejercicio",
+    "Bootcamp"
+  ],
+  "author": "Pablo Triana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trianaaa/Primeros-Proyectos/issues"
+  },
+  "homepage": "https://github.com/Trianaaa/Primeros-Proyectos#readme"
+}
